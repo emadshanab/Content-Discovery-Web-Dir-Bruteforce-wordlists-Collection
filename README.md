@@ -178,3 +178,5 @@ https://github.com/koaj/ffw-content-discovery
 https://github.com/eauxfolles/content-discovery
 
 https://github.com/GainSec/TreeHouse-Wordlists
+
+https://github.com/p0dalirius/webapp-wordlists
